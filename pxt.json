@@ -1,0 +1,8 @@
+{
+	"name": "my-extension",
+	"url": "",
+	"description": "My MakeCode Test Extension",
+	"dependencies": {},
+	"target": "microbit"
+}
+
